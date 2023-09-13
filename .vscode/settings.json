@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "/usr/include/SDL2",
+    ],
+    "files.associations": {
+        "*.cpp": "cpp",
+        "filesystem": "cpp"
+    },
+}
