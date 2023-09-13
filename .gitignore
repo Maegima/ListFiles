@@ -37,3 +37,6 @@ imgui/*
 
 #Ini file
 *.ini
+
+#vscode
+.vscode/*
